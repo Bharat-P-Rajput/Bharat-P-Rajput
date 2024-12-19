@@ -63,3 +63,52 @@
   
 Credit: [Bharat Rajput](https://github.com/RajputBharat)
 Last Edited on: 09/03/2023
+# Hi there, I'm Bharat! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions.
+
+## 🛠 Skills & Technologies
+
+- **Languages:** Python, JavaScript, Java, C++
+- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## 🔭 Projects
+
+Here are a few projects I've worked on:
+
+1. **Project Name 1**
+   - Description: A brief description of the project.
+   - Technologies: List of technologies used.
+   - [GitHub Repository](URL)
+
+2. **Project Name 2**
+   - Description: A brief description of the project.
+   - Technologies: List of technologies used.
+   - [GitHub Repository](URL)
+
+3. **Project Name 3**
+   - Description: A brief description of the project.
+   - Technologies: List of technologies used.
+   - [GitHub Repository](URL)
+
+## 🌱 Currently Learning
+
+- Exploring cloud technologies like AWS and Azure.
+- Enhancing my knowledge of machine learning and AI.
+
+## 📫 How to Reach Me
+
+- **Email:** bharat@example.com
+- **LinkedIn:** [Bharat's LinkedIn](https://www.linkedin.com/in/bharat-p-rajput)
+- **Twitter:** [@BharatTwitter](https://twitter.com/BharatTwitter)
+
+## 📈 GitHub Stats
+
+![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharat-P-Rajput&show_icons=true&theme=radical)
+
+<!-- Optional: Add a contribution graph -->
+![Bharat's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Bharat-P-Rajput&theme=react-dark)
+
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas.
