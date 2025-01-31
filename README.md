@@ -5,7 +5,7 @@
 <Br>
 <h1>About Me! </h1>
 
-- : I’m currently working on many small ML projects.
+- : I’m currently working on many Data Analytics and Data Engineering Projects.
 - : I’m looking for help with anything I am currently learning!
 - : Ask me about Data Analysis, Visualization and Machine Learning algorithms.
 - : Pronouns: He/His
